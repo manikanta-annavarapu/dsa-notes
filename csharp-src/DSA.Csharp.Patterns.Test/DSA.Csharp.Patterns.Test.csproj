@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\dsa.csharp.patterns\DSA.Csharp.Patterns.csproj" />
+    <ProjectReference Include="..\DSA.Csharp.Patterns\DSA.Csharp.Patterns.csproj" />
   </ItemGroup>
 
   <ItemGroup>
